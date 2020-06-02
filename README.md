@@ -8,4 +8,4 @@
 
 This app uses "instagram-private-api":
 
-https://github.com/ping/instagram_private_api
+https://github.com/dilame/instagram-private-api
